@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notely</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority:</string>
+    <string name="save">save</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+</resources>
